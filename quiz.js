@@ -2042,7 +2042,7 @@ function results() {
     }
   }
   url = window.btoa(url);
-  url = "religibeliefs/results/?" + url;
+  url = "/religibeliefs/results/?" + url;
 
   location.href = url;
 }

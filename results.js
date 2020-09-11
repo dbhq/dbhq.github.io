@@ -421,7 +421,7 @@ if (!bonusEnabled) {
 }
 
 var images = {
-  sprites: "/images/flag_sprites.png",
+  sprites: "/religibeliefs/images/flag_sprites.png",
   c0: "/religibeliefs/images/constructivism_small.png",
   c1: "/religibeliefs/images/essentialism_small.png",
   j0: "/religibeliefs/images/justice_soft_small.png",

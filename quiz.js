@@ -3,7 +3,7 @@
 var questions = [
   // Constructivism/Essentialism
   {
-    question: "“Example question!”",
+    question: "“There is only one God.”",
     answer: 0,
     valuesYes: [
       {

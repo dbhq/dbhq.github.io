@@ -3,7 +3,7 @@
 var questions = [
   // Constructivism/Essentialism
   {
-    question: "“One is not born, but rather becomes, a woman.”",
+    question: "“Example question!”",
     answer: 0,
     valuesYes: [
       {

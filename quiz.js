@@ -772,7 +772,7 @@ var questions = [
   },
   {
     question:
-      "Minimal levels of salary should be ensured to make sure that a worker can live of their work.",
+      "Minimal levels of salary should be ensured to make sure that a worker can live off their work.",
     answer: 0,
     valuesYes: [
       {

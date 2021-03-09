@@ -137,7 +137,7 @@ for (var b in bonus) {
 }
 
 characteristics.sort(function(a, b) {
-  return a.value < b.value;
+  return b.value - a.value;
 });
 
 var charSlogan = {
@@ -400,7 +400,7 @@ if (sloganDiv) {
   }
 
   selectedSlogan.sort(function(a, b) {
-    return a.value < b.value;
+    return b.value - a.value;
   });
 
   var counter = 0;
